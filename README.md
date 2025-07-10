@@ -13,7 +13,7 @@ This project provides health recommendations and risk assessment using rule-base
 
 pip install -r requirements.txt
 streamlit run app.py
-```
+
 SCREENSHOTS:
-<img width="1366" height="768" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/521cde36-5050-4ba7-945d-75ed234671a2" />
+<img width="1366" height="768" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/72d036dd-b55f-48ac-9dfb-b4d5f1082e49" />
 
